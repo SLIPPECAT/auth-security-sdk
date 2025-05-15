@@ -1,0 +1,39 @@
+# 빌드 출력물
+/build/
+/out/
+
+# IDE 관련 (IntelliJ, Eclipse 등)
+*.iml
+.idea/
+*.ipr
+*.iws
+*.classpath
+*.project
+*.settings/
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+*.swp
+
+# 운영체제 별 파일
+.DS_Store
+Thumbs.db
+
+# Gradle 캐시 및 Wrapper 로그
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+gradle-app.setting
+gradle-app.properties
+
+# 환경파일
+.env
+*.local
+
+# 테스트 출력
+/test-results/
+*.exec
+
+# 기타
+bin/
+
