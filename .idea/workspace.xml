@@ -5,38 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bb3c7cc-ddd1-48bd-a1b5-aaa3cd82005a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/security/sdk/AuthResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/security/sdk/AuthenticationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/security/sdk/TokenValidationResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/security/sdk/config/JwtAuthorizationFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/security/sdk/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/security/sdk/config/SecuritySdkAutoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/security/sdk/config/SecuritySdkProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/security/sdk/controller/AuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/security/sdk/exception/AuthenticationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/security/sdk/exception/TokenException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/security/sdk/impl/InMemoryUserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/security/sdk/impl/JwtAuthenticationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/security/sdk/model/Permission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/security/sdk/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/security/sdk/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.12/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.12/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.12/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.12/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.12/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.12/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.12/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.12/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.12/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.12/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/lib/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/main/java/com/mimyo/secureauth/Library.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/test/java/com/mimyo/secureauth/LibraryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +132,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
