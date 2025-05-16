@@ -54,8 +54,8 @@ To integrate the SDK into your Spring Boot project, follow these steps:
                 name = "GitHubPackages"
                 url = uri("https://maven.pkg.github.com/SLIPPECAT/auth-security-sdk")
                 credentials {
-                    username = System.getenv("GITHUB_USERNAME")
-                    password = System.getenv("GITHUB_TOKEN")
+                    username = project.findProperty("gpr.user") ?: System.getenv("GITHUB_USERNAME")
+                    password = project.findProperty("gpr.key") ?: System.getenv("GITHUB_TOKEN")
                 }
             }
         }
